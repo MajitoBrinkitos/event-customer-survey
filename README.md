@@ -13,8 +13,10 @@ This is a basic survey to know people's opinions and suggestions after an event.
 Instructions on how to install and set up this project
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/MajitoBrinkitos/event-customer-survey.git
+```
 
 2. Navigate to the project directory:
 ```bash
