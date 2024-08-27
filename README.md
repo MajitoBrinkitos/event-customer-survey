@@ -6,7 +6,6 @@ This is a basic survey to know people's opinions and suggestions after an event.
 
 -Installation
 -Usage
--Contributing
 -License
 
 ## Installation
